@@ -4,6 +4,9 @@ EditText using MaterialDesign
 TextInputLayout is a new element introduced in Design Support library to display the floating label in EditText.
 To display floating label in EditText, TextInputLayout needs to wrapped the EditText.
 
+![screenshot_1504678033](https://user-images.githubusercontent.com/22514415/30096928-9cb3881c-92f8-11e7-82ae-9730debea41d.png)
+
+
 # support.design:counterEnabled:
 
 This attribute is used to set whether the character counter functionality is enabled or not in this layout. We set true for enabled and false for disabled the counter functionality.
