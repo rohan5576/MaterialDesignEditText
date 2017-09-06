@@ -13,28 +13,30 @@ Whether the layout is laid out as if the character counter will be displayed.
 May be a boolean value, such as "true" or "false".
 
 
-android.support.design:counterMaxLength
+# android.support.design:counterMaxLength
 
 The max length to display in the character counter.
 May be an integer value, such as "100".
 
-android.support.design:errorEnabled
+
+# android.support.design:errorEnabled
 
 Whether the layout is laid out as if an error will be displayed.
 May be a boolean value, such as "true" or "false".
 
-android.support.design:errorTextAppearance
+
+# android.support.design:errorTextAppearance
 
 TextAppearance of any error message displayed.
 May be a reference to another resource, in the form "@[+][package:]type/name" or a theme attribute in the form "?[package:]type/name".
 
 
-android.support.design:hintAnimationEnabled
+# android.support.design:hintAnimationEnabled
 
 Whether to animate hint state changes.
 May be a boolean value, such as "true" or "false".
 
-android.support.design:hintEnabled
+# android.support.design:hintEnabled
 
 Whether the layout's floating label functionality is enabled.
 May be a boolean value, such as "true" or "false".
